@@ -17,5 +17,5 @@ I'm Samuel, an ICT graduate passionate about coding, networking, and cybersecuri
 - 🛍️ **Fancy Grocery** (Online Grocery Store)
 
 ## 📬 Get in Touch
-- 📧 Email: your-email@example.com
+- 📧 Email: mutukusamuel876@gmail.com
 - 🔗 [GitHub Profile](https://github.com/your-username)
