@@ -7,9 +7,9 @@ I'm Samuel, an ICT graduate passionate about coding, networking, and cybersecuri
 - Hardware repairs & networking
 
 ## 🔧 Technologies
-- **Programming:** JavaScript, PHP, Python
+- **Programming:** JavaScript, PHP, Python,C++,C
 - **Web Development:** HTML, CSS, Bootstrap
-- **Database:** MySQL, PostgreSQL
+- **Database:** MySQL,SQL
 
 ## 📂 Projects
 - 🏥 **Viccah Hospital System** (Medical records management)
