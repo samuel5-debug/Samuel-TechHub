@@ -1,21 +1,30 @@
-# Hi there! 👋
-I'm Samuel, an ICT graduate passionate about coding, networking, and cybersecurity.
+# Hi there! 👋  
+I'm Samuel, an ICT graduate passionate about **coding, networking, and cybersecurity**.  
 
-## 📚 What I'm Learning
-- PHP & MySQL for web applications
-- Cybersecurity principles
-- Hardware repairs & networking
+## 🚀 What I'm Working On  
+- **Enhancing my full-stack development skills** (PHP, JavaScript, MySQL)  
+- **Building secure & scalable systems**  
+- **Networking & Cybersecurity fundamentals**  
 
-## 🔧 Technologies
-- **Programming:** JavaScript, PHP, Python,C++,C
-- **Web Development:** HTML, CSS, Bootstrap
-- **Database:** MySQL,SQL
+## 🛠 Technologies & Skills  
+- **Programming:** JavaScript, PHP, Python, C++, C  
+- **Web Development:** HTML, CSS, Bootstrap  
+- **Database:** MySQL, SQL  
+- **Networking & Security:** Linux, Networking, Cybersecurity Principles  
 
-## 📂 Projects
-- 🏥 **Viccah Hospital System** (Medical records management)
-- 📊 **Student Management System** (Attendance & Performance tracking)
-- 🛍️ **Fancy Grocery** (Online Grocery Store)
+## 📂 Featured Projects  
+- 🏥 **Viccah Hospital System** – Medical records management  
+- 📊 **Student Management System** – Attendance & Performance tracking  
+- 🛍️ **Fancy Grocery** – Online Grocery Store  
 
-## 📬 Get in Touch
-- 📧 Email: mutukusamuel876@gmail.com
-- 🔗 GitHub Profile:https://github.com/samuel5-debug
+## 📖 Learning & Growth  
+I'm currently enrolled in the **IYF Weekend Academy - Programming Class**, where I'm focusing on:  
+- **Web Development & Linux** (HTML, CSS, JavaScript, Linux Commands)  
+- **Frontend & Backend Development** (React, Node.js, Express.js, MongoDB)  
+- **Cybersecurity Essentials**  
+
+For my full learning path and progress, check out **[LEARNING.md](./LEARNING.md)**.  
+
+## 📬 Connect With Me  
+- 📧 Email: mutukusamuel876@gmail.com  
+- 🔗 GitHub: [samuel5-debug](https://github.com/samuel5-debug)
