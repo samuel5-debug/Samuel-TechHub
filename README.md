@@ -28,4 +28,5 @@ For my full learning path and progress, check out **[LEARNING.md](./LEARNING.md)
 ## 📬 Connect With Me  
 - 📧 Email: mutukusamuel876@gmail.com  
 - 🔗 GitHub: [samuel5-debug](https://github.com/samuel5-debug)
-**📱 WhatsApp:** *[Chat with me](https://wa.me/254769965286)*
+  
+**📱WhatsApp:** *[Chat with me](https://wa.me/254769965286)*
